@@ -19,6 +19,9 @@ function App() {
         <h1>hello world</h1>
       </div>
 
+      <div>
+        <h2>There it is </h2>
+      </div>
       <div className="grid lg:grid-rows-4 md:grid-rows-3 sm:grid-rows-2 grid-rows-1 gap-x-2 grid-flow-col gap-y-4">
         <div className="h-[300px] w-full bg-[red]"></div>
         <div className="h-[300px] w-full bg-black"></div>
